@@ -36,6 +36,7 @@ var user_conf = {
 }
 var dn_script = scriptFullName.parent().parent() + '\\';
 
+//- コマンドパレットスクリプトを探す
 if ( ! user_conf.cmdp_path ) {
 	var pathset = [
 		dn_script + 'cmdp\\cmdp.js' ,
@@ -49,7 +50,6 @@ if ( ! user_conf.cmdp_path ) {
 		break;
 	}
 }
-
 
 //. コマンド実行
 _debug_log();
