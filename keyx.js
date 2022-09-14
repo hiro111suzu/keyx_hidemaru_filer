@@ -8,6 +8,7 @@ var ignore = { //- shift/ctrl/alt
 	0x10: true,
 	0x11: true,
 	0x12: true,
+	0x13: true,
 	0xa0: true,
 	0xa1: true,
 	0xa2: true,
