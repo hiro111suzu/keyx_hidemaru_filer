@@ -2,7 +2,7 @@
 [作者: suzu](https://github.com/hiro111suzu/hidemaru_docs/blob/main/README.md) /
 [バージョン: 0](https://github.com/hiro111suzu/keyx_hidemaru_filer/releases/) /
 [GitHub](https://github.com/hiro111suzu/keyx_hidemaru_filer) /
-公式ライブラリ: 未登録
+[公式ライブラリ](https://hide.maruo.co.jp/lib/hmfcscript/keyx_hf.html)
 
 # 概要
 * 秀丸ファイラーClassic（以下、秀丸ファイラー）のキー割り当てとツール登録の設定画面は、極めて高度で良くデザインされています。とはいえ、同期や大掃除、マニアックなことをしようと思うと、面倒な側面も少々あります。
