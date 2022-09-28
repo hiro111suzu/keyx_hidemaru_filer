@@ -122,11 +122,7 @@ Shift+Ctrl+P = c:\program files
 	+ 「キー割り当て」の設定ウインドウでは、検索ボックスに"keyx"と入力すると探しやすい
 	+ 検索ボックスはキー名にも使えるので、未割り当てのキーを探すのにも便利
 3. INIファイルを編集し、そのキー用の機能を記述
-	+ 例:
-```
-ctrl+b = js message("hello world");
-```
-
+	+ 例: ```ctrl+b = js message("hello world");```
 	+ [HmSharedOutputPane](https://hide.maruo.co.jp/lib/macro/hmsharedoutputpane.html) を導入すれば、デバッグメッセージを秀丸エディタのアウトプット枠に出力できるので、動作の確認が容易になる。
 		- 上述の *config*セクション、の *debug_soft* の項目を参照
 4. 使用感が掴めたら、割り当てるキーをどんどん増やしていく
